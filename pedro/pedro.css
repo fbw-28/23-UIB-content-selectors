@@ -1,0 +1,25 @@
+/* used colors are: #222 #eee*/
+* {
+    margin: 12px;
+    padding: 2px;
+}
+
+body {
+    background: #4d2d06;
+    font-family: Georgia, Times, serif;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;    
+}
+
+#one {
+
+    background-color: #222;
+}
+
+#two {
+    color: #222;
+    background-color: #eee;
+
+}
+
