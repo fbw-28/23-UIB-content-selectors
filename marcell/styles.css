@@ -1,0 +1,28 @@
+/* used colors are: #222 #eee*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #4d2d06;
+    font-family: Georgia, Times, serif;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;    
+}
+
+.primary {
+    display: block;
+    background-color: #333;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+.secondary {
+    display: block;
+    background-color: white;
+    color: #333;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
